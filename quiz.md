@@ -41,3 +41,23 @@ receive a request from a client and return a response
 
 12) Self study: what would the 3-digit server response code be if the server experiences an internal server error?
 500  indicates server it self got problem
+
+13) JSON = JavaScript Object Notation
+
+
+14) jsonlint.com to help to validate a JSON
+
+15) the makeup of a URL
+the base URL
+the endpoint
+If Scrimba had an API
+the base URL: https://scrimba.com/api
+The endpoints:
+    /courses
+    /users
+    /templates
+    /resources/challenges
+    /resources/tests?test=typescript
+
+16) Fetching with .then()
+    Fetching with async await
